@@ -1,0 +1,43 @@
+body {background-color: #777;
+    font: #777;
+    font-size: 18px;
+    width: 960px;}
+    
+header {text-align:center;
+        background-color: #ebebeb;
+    padding: 20px;}
+
+nav {text-align:center;
+    background-color: #ebebeb;
+    padding: 20px;}
+
+#section {
+  float: left;
+  margin: 0 1.5%;
+  width: 50%;
+  background-color: #ebebeb;
+  text-align:center;
+}
+
+#tommy {background-color:#777;
+padding:40px;}
+
+#frank {background-color:#ebebeb}
+
+#austin {background-color:#ebebeb}
+
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+  background-color:#ebebeb;
+  text-align:center;
+  padding:40px;
+}
+
+footer {
+  clear: both;
+  text-align:center;
+    background-color: #ebebeb;
+    padding: 20px;
+}
