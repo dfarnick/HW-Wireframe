@@ -1,46 +1,46 @@
-body {background-color: #777;
+#body {background-color: #777;
     color: #777;
     font-size: 18px;
     width: 960px; margin-right: auto; margin-left:auto;}
     
-header {text-align:center;
+#header {text-align:center;
         background-color: #ebebeb;
-    padding: 20px; border-bottom:10px; border-style:solid;}
+    padding: 30px; margin-bottom: 15px;}
 
-nav {text-align:center;
+#nav {text-align:center;
     background-color: #ebebeb;
-    padding: 20px; border-bottom:10px; border-style:solid;}
+    padding: 30px; margin-bottom: 15px;}
 
 #section {
   float: left;
-  width: 47%;
-  background-color: #ebebeb;
-  text-align:center; padding: 10px; padding-top: 10px;
-  
-}
-
-#tommy {background-color:#777;
-padding:10px; color:#ebebeb}
-
-#frank {background-color:#ebebeb;
-color:#777; padding:5px; border-style:solid;
-border-width:5px;}
-
-#austin {background-color:#ebebeb; color:#777; padding: 5px; border-style:solid;
-border-width:5px;}
-
-aside {
-  float: right;
   width: 49%;
+  background-color: #ebebeb;
+  text-align:center; padding: 10px; padding-top: 20px; padding-left:10px;
+    border-left: 5px; border-color: #ebebeb; border-style:solid;
+}
+
+#tommyart {background-color:#777; padding:10px;
+padding-top:15px; color:#ebebeb; border-top:20px; border-style:solid;}
+
+#frankenhead {background-color:#ebebeb;
+color:#777; padding:5px; border-style:solid;
+border-width:5px; }
+
+#austinpara {background-color:#ebebeb; color:#777; padding: 5px; border-style:solid;
+border-width:5px;}
+
+#aside {
+  float: right;
+  width: 46%;
   background-color:#ebebeb;
-  text-align:center; padding-bottom: 212px;
+  text-align:center; padding-bottom: 235px; padding-top: 20px;
   
 }
 
-footer {
+#footer {
   clear: both;
   text-align:center;
     background-color: #ebebeb;
-    padding: 15px; border-top:10px; border-style:solid;
+    padding: 30px; border-top:15px; border-color:#777; border-style:solid;
    
 }
